@@ -18,8 +18,8 @@ An AI-powered financial analysis agent using `yfinance` and MCP (`fastmcp`) to f
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/financial-analyst-tool.git
-   cd financial-analyst-tool
+   git clone https://github.com/your-username/MCP-3.git
+   cd MCP-3
    ```
 
 2. **Create virtual environment**
